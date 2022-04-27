@@ -1,0 +1,64 @@
+h1{
+    font-size: 150px;
+    color:red;
+    text-align: center;
+    font-family:fantasy;
+    
+
+}
+body{
+    font-size: 20px;
+
+    text-align: right;
+    background-image: url('6094-5.jpg');
+}
+
+
+div{
+    text-align:center;
+}
+p{
+
+    font-family: serif;
+    font-size: 20px;
+    color:white;
+    text-align:center;
+}
+h3{
+    color:tomato;
+    font-family:fantasy;
+    text-align: center;
+    font-size:50px;
+
+}
+h2{
+    color: tomato;
+    font-family:fantasy;
+    text-align: center;
+    font-size:50px;
+}
+
+.but{
+    width: 80px;
+    height: 60px;
+    background-color:wheat;
+}
+video{
+    text-align: center;
+    height: 350px;
+   }
+h4{
+    font-size: 50px;
+    color:tomato;
+    text-align: center;
+    font-family:fantasy;
+}
+
+#but{
+    text-align: right;
+}
+   
+    
+
+
+

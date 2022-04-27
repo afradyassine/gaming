@@ -1,0 +1,84 @@
+body{
+    background-image: url(profil.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.navbar-inverse{
+    background: transparent;
+    border-color: transparent;
+}
+h1{
+    color: red;
+    font-family:fantasy;
+}
+#mynavbar .navbar-nav li a{
+    color:#fff;
+    font-size: 18px;
+    font-family: monospace;
+    margin-top: 5px;
+
+}
+#home{
+    float:right ;
+    color: red;
+
+}
+.dd{
+    text-align: center;
+}
+#dd{
+    color: white;
+    font-size: 20px;
+    display: block;
+}
+#but:hover{
+    background-color: white;
+    border: none;
+}
+.bb2:hover{
+    background-color: white;
+    border: none;
+}
+.link{
+    color: white;
+    font-family: Arial;
+    margin-top: 100px;
+    padding-left: 20px;
+}
+a{
+    color: orangered;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: arial;
+}
+.pp{
+    margin-top:10px ;
+    border-radius:10px ;
+
+
+}
+.liw{
+    display: block;
+}
+div{
+    height: 70px;
+    width: 100px ;
+}
+main{
+    width: 300px;
+    height: 350px;
+    background-color:black;
+    margin: 100px;
+}
+input{padding: 5px;
+margin: 10px;}
+
+.bb{margin: 3px;}
+
+#nav{
+    margin-left: 300px;
+}
+h1{
+    margin: 10px;
+}

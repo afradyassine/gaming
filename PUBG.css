@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    font-size: 120px;
+    font-family:cursive;
+    color:rgb(206, 49, 10);
+}
+div{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-family: cursive;
+    color:white;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+    color:tomato;
+}
+#but{
+
+    text-align: right;
+}
+body{
+    text-align: right;
+    background-image: url('6094-5.jpg');
+}
+video{
+    text-align: center;
+    height: 350px;
+}
+.hrho{
+    width: 80px;
+    height: 60px;
+    background-color: wheat;
+}
